@@ -7,5 +7,5 @@ how to run:
 Clone this project and start with live server or html file
 
 Accounts for testing:
-  js - 1111
-  jd - 222
+Acc1: js - 1111
+ACC2: jd - 222
